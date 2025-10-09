@@ -293,36 +293,49 @@ footer > div > img {
     font-size: 35px !important;
     width: 100% !important;
   }
+
   .box_div > .textos_info {
     font-size: 25px !important;
     width: 80% !important;
   }
+
   .perguntas {
     width: 100% !important;
     border-radius: 20px !important;
   }
+
   .box_div {
     font-size: 25px !important;
   }
+
   .perguntas > h2,
   .textos {
     font-size: 40px !important;
   }
+
+  .perguntas > p {
+    font-size: 30px;
+  }
+
   .botoes {
     font-size: 30px !important;
     padding: 30px !important;
     border-radius: 30px !important;
   }
+
   main {
     flex-direction: column !important;
     align-items: center !important;
   }
+
   footer {
     font-size: 20px !important;
   }
+
   #titulo {
     font-size: 40px !important;
   }
+
   #div_esquerda,
   #div_direita {
     width: 80% !important;
