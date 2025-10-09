@@ -36,7 +36,6 @@ header {
 
 .imagens,
 .textos_info {
-  box-shadow: none;
   transition: transform 0.5s ease;
 }
 
