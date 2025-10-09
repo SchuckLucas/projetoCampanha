@@ -313,8 +313,8 @@ footer > div > img {
     font-size: 40px !important;
   }
 
-  .respostas{
-    font-size: 25px;
+  .respostas {
+    font-size: 25px !important;
   }
 
   .botoes {
