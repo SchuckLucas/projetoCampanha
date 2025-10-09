@@ -9,6 +9,7 @@
 @media (max-width: 1000px) {
   .box_div {
     min-height: fit-content;
-    height: 50vh !important;
+    height: 40vh !important;
+    border-radius: 50px !important;
   }
 }
