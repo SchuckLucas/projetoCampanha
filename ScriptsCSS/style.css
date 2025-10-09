@@ -8,7 +8,6 @@
   --cor-box1: #87cefa;
   --cor-box2: #d1eeee;
   --cor-box3: #fffafa;
-  --cor-sombra: #a0a9c0;
   --blue: #4876ff;
   --cor-fonte: #000000;
 }
@@ -181,7 +180,6 @@ footer > div > img {
 
 .imagens {
   border-radius: 15px;
-  box-shadow: 2px 2px 10px var(--cor-sombra);
 }
 
 .textos_info,
@@ -228,26 +226,6 @@ footer > div > img {
 .box_div:hover,
 .perguntas:hover {
   transform: scale(1.01);
-}
-
-.inputs {
-  border: none;
-  outline: none;
-  padding: 10px;
-  border-radius: 5px;
-}
-
-#input_duvidas {
-  align-self: flex-start;
-  background-color: var(--cor-box3);
-  color: var(--cor-fonte);
-  width: 80%;
-  font-size: 20px;
-}
-
-#input_duvidas::placeholder {
-  color: var(--cor-sombra);
-  font-size: 20px;
 }
 
 .videos {
