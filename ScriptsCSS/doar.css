@@ -8,6 +8,7 @@
 
 @media (max-width: 1000px) {
   .box_div {
+    min-height: fit-content;
     height: 50vh;
   }
 }
