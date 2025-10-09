@@ -1,0 +1,13 @@
+.box_div {
+  min-height: fit-content;
+  width: 40% !important;
+  height: 80vh !important;
+  margin: 30px;
+  gap: 50px !important;
+}
+
+@media (max-width: 1000px) {
+  .box_div {
+    height: 50vh;
+  }
+}
