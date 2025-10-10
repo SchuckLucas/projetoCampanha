@@ -9,7 +9,7 @@ const botao_doar = document.getElementById("bt_doar");
 const respostas = [
   "Agasalhos e cobertores.",
   "Para ajudar os refugiados, que chegam sem recursos na cidade de Toledo, PR.",
-  "Para doar, os alunos devem falar com os integrantes do nono ano Z, que estão organizando a campanha.",
+  "Para doar, os alunos devem falar com os integrantes da turma nono ano Z, que estão organizando a campanha.",
   "Os itens serão repassados para a Embaixada Solidária em Toledo, PR, a qual distribuirá para os imigrantes e refugiados que necessitam dos recursos.",
   "A campanha ocorrerá até a última semana de novembro durante o horário das aulas da manhã.",
   "Os itens serão repassados para a Embaixada Solidária, que distribuirá para os imigrantes e refugiados que necessitarem.",
@@ -46,3 +46,4 @@ botao_info.addEventListener("click", () => {
 botao_doar.addEventListener("click", () => {
   window.location.href = "../ScriptsHTML/doar.html";
 });
+
