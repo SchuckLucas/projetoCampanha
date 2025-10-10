@@ -45,7 +45,7 @@ header {
 
 .textos_info {
   border-radius: 20px;
-  box_shadow: none !important;
+  box-shadow: none !important;
 }
 
 .textos_info:hover {
@@ -60,5 +60,6 @@ header {
     opacity: 100%;
   }
 }
+
 
 
