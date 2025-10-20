@@ -237,6 +237,10 @@ footer > div > img {
   text-align: center;
 }
 
+.videos {
+  width: 50%;
+}
+
 @keyframes movimeto_inicial {
   0% {
     opacity: 0;
@@ -267,14 +271,9 @@ footer > div > img {
 }
 
 @media (max-width: 1000px) {
-  .textos_info {
-    font-size: 35px !important;
-    width: 100% !important;
-  }
-
   .box_div > .textos_info {
     font-size: 25px !important;
-    width: 80% !important;
+    width: 90% !important;
   }
 
   .perguntas {
@@ -295,6 +294,10 @@ footer > div > img {
     font-size: 30px !important;
     padding: 30px !important;
     border-radius: 30px !important;
+  }
+
+  .videos {
+    width: 100% !important;
   }
 
   main {
