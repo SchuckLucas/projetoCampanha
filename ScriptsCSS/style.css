@@ -315,6 +315,7 @@ footer > div > img {
 
   #div_esquerda,
   #div_direita {
-    width: 80% !important;
+    width: 100% !important;
   }
 }
+
