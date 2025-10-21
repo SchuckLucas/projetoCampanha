@@ -5,6 +5,7 @@ main,
   align-items: center;
   justify-content: flex-start;
   width: 100%;
+  background-color: red;
 }
 
 header {
@@ -57,6 +58,7 @@ header {
     opacity: 100%;
   }
 }
+
 
 
 
