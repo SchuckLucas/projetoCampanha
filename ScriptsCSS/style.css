@@ -271,7 +271,7 @@ footer > div > img {
 }
 
 @media (max-width: 1000px) {
-  .box_div > .textos_info {
+  .textos_info {
     font-size: 25px !important;
     width: 90% !important;
   }
@@ -315,7 +315,8 @@ footer > div > img {
 
   #div_esquerda,
   #div_direita {
-    width: 100% !important;
+    width: 80% !important;
   }
 }
+
 
