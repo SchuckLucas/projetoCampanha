@@ -16,6 +16,7 @@ header {
   padding: 30px;
   box-sizing: border-box;
   animation: aparecer 1s linear;
+
 }
 
 .imagens {
@@ -57,6 +58,7 @@ header {
     opacity: 100%;
   }
 }
+
 
 
 
