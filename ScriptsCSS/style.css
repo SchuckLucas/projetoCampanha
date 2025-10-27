@@ -281,6 +281,10 @@ footer > div > img {
     border-radius: 20px !important;
   }
 
+  .respostas{
+    font-size: 25px !important;
+  }
+
   .box_div {
     font-size: 25px !important;
   }
@@ -318,5 +322,6 @@ footer > div > img {
     width: 80% !important;
   }
 }
+
 
 
